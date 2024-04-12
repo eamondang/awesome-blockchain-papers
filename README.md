@@ -9,11 +9,11 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 ## News
 
-- **Papers of CCS '22 added**
+- **Papers of CCS '23 added**
 - **Papers of NDSS '23 added**
 - **Papers of S&P '23 first cycle added**
-- **Papers of INFOCOM '22 added**
-- **Papers of SOSP '21 added**
+- **Papers of INFOCOM '23 added**
+- **Papers of SOSP '23 added**
 
 ## Conference Information
 
@@ -21,14 +21,14 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 
 > Conference
 
-- [USENIX Security (Usenix Security Symposium)](#usenix-security-a) <= 2022 Winter
+- [USENIX Security (Usenix Security Symposium)](#usenix-security-a) <= 2023 Fall
 - [S&P (IEEE Security and Privacy)](#sp-a) <= 2023 First Cycle
-- [CCS (ACM Conference on Computer and Communications Security)](#ccs-a) <= 2022
+- [CCS (ACM Conference on Computer and Communications Security)](#ccs-a) <= 2023
 - [NDSS (Network and Distributed System Security)](#ndss-a) <= 2023
 - [CRYPTO (International Cryptology Conference)](#crypto-a) <= 2020 (waiting for notifications, 2021.4.19)
 - [EUROCRYPT (European Cryptology Conference)](#eurocrypt-a) <= 2021
-- [INFOCOM (IEEE International Conference on Computer Communications)](#-a) <= 2022
-- [SOSP (ACM Symposium on Operating Systems Principles)](#sosp-a) <= 2021
+- [INFOCOM (IEEE International Conference on Computer Communications)](#-a) <= 2023
+- [SOSP (ACM Symposium on Operating Systems Principles)](#sosp-a) <= 2023
 - [NSDI (USENIX Symposium on Networked Systems Design and Implementation)](#nsdi-a) <= 2020
 - [VLDB (International Conference on Very Large Data Bases)](#vldb-a) <= 2020
 - [OSDI (USENIX Symposium on Operating Systems Design and Implementations)](#osdi-a) <= 2021
@@ -114,6 +114,45 @@ If you want to join with us, please feel free to contact me. Then, remember to r
 ---
 
 ## USENIX Security (A)
+- 🎓 [Oops..! I Glitched It Again! How to Multi-Glitch the Glitching-Protections on ARM TrustZone-M](https://www.usenix.org/system/files/usenixsecurity23-sass.pdf). Xhani Marvin Saß, Richard Mitev, and Ahmad-Reza Sadeghi, *Technical University of Darmstadt*. USENIX Security'23.
+  
+  - Keyword: _`TEE`_, _`attacks`_
+    
+- 🎓 [Controlled Data Races in Enclaves: Attacks and Detection](https://www.usenix.org/system/files/usenixsecurity23-chen-sanchuan.pdf). Sanchuan Chen, *Fordham University;* Zhiqiang Lin, *The Ohio State University;* Yinqian Zhang, *Southern University of Science and Technology*. USENIX Security'23.
+  
+  - Keyword: _`TEE`_, _`attacks`_
+ 
+- 🎓 [VeriZexe: Decentralized Private Computation with Universal Setup](https://www.usenix.org/system/files/usenixsecurity23-xiong.pdf). Alex Luoyuan Xiong, *Espresso Systems, National University of Singapore;* Binyi Chen and Zhenfei Zhang, *Espresso Systems;* Benedikt Bünz, *Espresso Systems, Stanford University;* Ben Fisch, *Espresso Systems, Yale University;* Fernando Krell and Philippe Camacho, *Espresso Systems*. USENIX Security'23.
+  
+  - Keyword: _`system`_, _`layer-2`_
+    
+- 🎓 [Token Spammers, Rug Pulls, and Sniper Bots: An Analysis of the Ecosystem of Tokens in Ethereum and in the Binance Smart Chain (BNB)](https://www.usenix.org/system/files/usenixsecurity23-cernera.pdf). Federico Cernera, Massimo La Morgia, Alessandro Mei, and Francesco Sassi, *Sapienza University of Rome*. USENIX Security'23.
+  
+  - Keyword: _`attacks`_, _`survey`_
+    
+- 🎓 [The Blockchain Imitation Game](https://www.usenix.org/system/files/usenixsecurity23-qin.pdf). Kaihua Qin, *Imperial College London, RDI;* Stefanos Chaliasos, *Imperial College London;* Liyi Zhou, *Imperial College London, RDI;* Benjamin Livshits, *Imperial College London;* Dawn Song, *UC Berkeley, RDI;* Arthur Gervais, *University College London, RDI*. USENIX Security'23.
+  
+  - Keyword: _`attacks`_
+    
+- 🎓 [Proxy Hunting: Understanding and Characterizing Proxy-based Upgradeable Smart Contracts in Blockchains](https://www.usenix.org/system/files/usenixsecurity23-bodell.pdf). William E Bodell III, Sajad Meisami, and Yue Duan, *Illinois Institute of Technology*. USENIX Security'23.
+  
+  - Keyword: _`smart contract`_, _`survey`_
+    
+- 🎓 [Panda: Security Analysis of Algorand Smart Contracts](https://www.usenix.org/system/files/usenixsecurity23-sun.pdf). Zhiyuan Sun, *The Hong Kong Polytechnic University and Southern University of Science and Technology;* Xiapu Luo, *The Hong Kong Polytechnic University;* Yinqian Zhang, *Southern University of Science and Technology*. USENIX Security'23.
+  
+  - Keyword: _`smart contract`_, _`Auditation`_
+    
+- 🎓 [ACon^2: Adaptive Conformal Consensus for Provable Blockchain Oracles](https://www.usenix.org/system/files/usenixsecurity23-park.pdf). Sangdon Park, *Georgia Institute of Technology;* Osbert Bastani, *University of Pennsylvania;* Taesoo Kim, *Georgia Institute of Technology*. USENIX Security'23.
+  
+  - Keyword: _`consensus`_
+    
+- 🎓 [A Large Scale Study of the Ethereum Arbitrage Ecosystem](https://www.usenix.org/system/files/usenixsecurity23-mclaughlin.pdf). Robert McLaughlin, Christopher Kruegel, and Giovanni Vigna, *University of California, Santa Barbara*. USENIX Security'23.
+  
+  - Keyword: _`attacks`_
+    
+- 🎓 [CipherH: Automated Detection of Ciphertext Side-channel Vulnerabilities in Cryptographic Implementations](https://www.usenix.org/system/files/usenixsecurity23-deng-sen.pdf). Sen Deng, *Southern University of Science and Technology;* Mengyuan Li, *The Ohio State University;* Yining Tang, *Southern University of Science and Technology;* Shuai Wang, *Hong Kong University of Science and Technology;* Shoumeng Yan, *The Ant Group;* Yinqian Zhang, *Southern University of Science and Technology*. USENIX Security'23.
+  
+  - Keyword: _`TEE`_, _`Auditation`_
 
 - 🎓 [How to Peel a Million: Validating and Expanding Bitcoin Clusters](https://www.usenix.org/system/files/sec22-kappos.pdf). George Kappos and Haaroon Yousaf, University College London and IC3; Rainer Stütz and Sofia Rollet, AIT - Austrian Institute of Technology; Bernhard Haslhofer, Complexity Science Hub Vienna; Sarah Meiklejohn, University College London and IC3. USENIX Security'22.
 
@@ -254,6 +293,38 @@ Maya Dotan, Saar Tochner, Aviv Zohar, and Yossi Gilad, The Hebrew University of 
   - Keyword: _`Marketplaces`_
 
 ## S&P (A)
+- 🎓 [BlindHub: Bitcoin-Compatible Privacy-Preserving Payment Channel Hubs Supporting Variable Amounts](https://eprint.iacr.org/2022/1735.pdf).Qin X, Pan S, Mirzaei A, et al. S&P'23.
+  
+  - Keyword: _`Blind Signature`_, _`payment channel`_
+    
+- 🎓 [WeRLman: To Tackle Whale (Transactions), Go Deep (RL)](https://eprint.iacr.org/2022/175.pdf).R. Bar-Zur, A. Abu-Hanna, I. Eyal and A. Tamar. S&P'23.
+  
+  - Keyword: _`mining`_
+    
+- 🎓 Three Birds with One Stone: Efficient Partitioning Attacks on Interdependent Cryptocurrency Networks.
+Muhammad Saad ( PayPal ), David Mohaisen ( University of Central Florida ). S&P'23.
+
+  - Keyword: _`Attacks`_
+
+- 🎓 [Bitcoin-Enhanced Proof-of-Stake Security: Possibilities and Impossibilities](https://arxiv.org/pdf/2207.08392).
+Ertem Nusret Tas ( Stanford University ), David Tse ( Stanford University ), Fangyu Gai ( BabylonChain Inc. ), Sreeram Kannan ( University of Washington, Seattle ), Mohammad Ali Maddah-Ali ( University of Minnesota ), Fisher Yu ( BabylonChain Inc. ). S&P'23.
+
+  - Keyword: _`Consensus`_
+
+- 🎓 [SoK: Decentralized Finance (DeFi) Attacks](https://arxiv.org/abs/2208.13035).
+Liyi Zhou ( Imperial College London ), Xihan Xiong ( Imperial College London ), Jens Ernstberger ( Technical University of Munich ), Stefanos Chaliasos ( Imperial College London ), Zhipeng Wang ( Imperial College London ), Ye Wang ( University of Macau ), Kaihua Qin ( Imperial College London ), Roger Wattenhofer ( ETH Zurich ), Dawn Song ( UC Berkeley ), Arthur Gervais ( University College London ). S&P'23.
+
+  - Keyword: _`Smart Contracts`_, _`Attacks`_
+
+- 🎓 [Optimistic Fast Confirmation While Tolerating Malicious Majority in Blockchains](https://dl.comp.nus.edu.sg/server/api/core/bitstreams/d41134ed-03e5-4a7f-9fb3-d150bcff7257/content).
+Ruomu Hou ( National University of Singapore ), Haifeng Yu ( National University of Singapore ). S&P'23.
+
+  - Keyword: _`Consensus`_
+
+- 🎓 [Tyr: Finding Consensus Failure Bugs in Blockchain System with Behaviour Divergent Model](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/SP23-Tyr.pdf).
+Yuanliang Chen ( Tsinghua University ), Fuchen Ma ( Tsinghua University ), Yuanhang Zhou ( Tsinghua University ), Yu Jiang ( Tsinghua University ), Ting Chen ( University of Electronic Science and Technology of China ), Jiaguang Sun ( Tsinghua University ). S&P'23.
+
+  - Keyword: _`Consensus`_
 
 - 🎓 [Clockwork Finance: Automated Analysis of Economic Security in Smart Contracts](https://arxiv.org/pdf/2109.04347.pdf).
 Kushal Babel (Cornell Tech), Philip Daian (Cornell Tech), Mahimna Kelkar (Cornell Tech), Ari Juels (Cornell Tech). S&P'23.
@@ -297,6 +368,7 @@ Samuel Steffen (ETH Zurich), Benjamin Bichsel (ETH Zurich), Roger Baumgartner (E
 
 - 🎓 [Ebb-and-Flow Protocols: A Resolution of the Availability-Finality Dilemma](https://arxiv.org/pdf/2009.04987.pdf). Joachim Neu (Stanford University), Ertem Nusret Tas (Stanford University), David Tse (Stanford University). S&P'21.
   - Keyword: _`Consensus`_
+
 - 🎓 [High-Frequency Trading on Decentralized On-Chain Exchanges](https://arxiv.org/pdf/2009.14021.pdf). Liyi Zhou (Imperial College London), Kaihua Qin (Imperial College London), Christof Ferreira Torres (University of Luxembourg), Duc V Le (Purdue University), Arthur Gervais (Imperial College London), Tyler Crain (University of Sydney), Christopher Natoli (University of Sydney), Vincent Gramoli (University of Sydney and EPFL). S&P'21.
 
   - Keyword: _`DEX`_
@@ -421,8 +493,119 @@ Samuel Steffen (ETH Zurich), Benjamin Bichsel (ETH Zurich), Roger Baumgartner (E
   - Keyword: **Zerocoin**, _`Privacy`_
 
 ## CCS (A)
+- 🎓 [Waks-On/Waks-Off: Fast Oblivious Offline/Online Shuffling and Sorting with Waksman Networks](https://dl.acm.org/doi/pdf/10.1145/3576915.3623133). *Sajin Sasy, Aaron Johnson, and Ian Goldberg.* University of Waterloo, Waterloo, ON, Canada. CCS'23.
+  
+  - Keyword: _`TEE`_, _`attacks`_
+    
+- 🎓 [Cybercrime Bitcoin Revenue Estimations: Quantifying the Impact of Methodology and Coverage](https://dl.acm.org/doi/pdf/10.1145/3576915.3623094). *Gibran Gomez, Kevin van Liebergen, and Juan Caballero.* IMDEA Software Institute & Universidad Politécnica de Madrid, Madrid, Spain. CCS'23.
+  
+  - Keyword: _`applications`_, _`crime`_
+    
+- 🎓 [SymGX: Detecting Cross-boundary Pointer Vulnerabilities of SGX Applications via Static Symbolic Execution](https://dl.acm.org/doi/pdf/10.1145/3576915.3623213). *Yuanpeng Wang, Ziqi Zhang, Ningyu He, Zhineng Zhong, Shengjian Guo, Qinkun Bao, Ding Li, Yao Guo, and Xiangqun Chen.* Peking University, Beijing, China. CCS'23.
+  
+  - Keyword: _`TEE`_, _`attacks`_
+    
+- 🎓 [The Locality of Memory Checking](https://dl.acm.org/doi/pdf/10.1145/3576915.3623195). *Weijie Wang, Yujie Lu, Charalampos Papamanthou, and Fan Zhang.* Yale University, New Haven, CT, USA. CCS'23.
+  
+  - Keyword: _`scalability`_
+    
+- 🎓 [Short Privacy-Preserving Proofs of Liabilities](https://dl.acm.org/doi/pdf/10.1145/3576915.3616645). *Francesca Falzon, Kaoutar Elkhiyaoui, Yacov Manevich, and Angelo De Caro.* Brown University, University of Chicago, Providence, RI, USA. CCS'23.
+  
+  - Keyword: _`security`_
+    
+- 🎓 [Adaptively Secure (Aggregatable) PVSS and Application to Distributed Randomness Beacons](https://dl.acm.org/doi/pdf/10.1145/3576915.3623106). *Renas Bacho and Julian Loss.* CISPA Helmholtz Center for Information Security & Universität des Saarlandes, Saarbrücken, Germany. CCS'23.
+  
+  - Keyword: _`secret share`_
+    
+- 🎓 [FlexiRand: Output Private (Distributed) VRFs and Application to Blockchains](https://dl.acm.org/doi/pdf/10.1145/3576915.3616601). *Aniket Kate, Easwar Vivek Mangipudi, Siva Maradana, and Pratyay Mukherjee.* Purdue University & Supra Research, West Lafayette, IN, USA. CCS'23.
+  
+  - Keyword: _`VRF`_
+    
+- 🎓 [Interchain Timestamping for Mesh Security](https://dl.acm.org/doi/pdf/10.1145/3576915.3616612). *Ertem Nusret Tas, Runchao Han, David Tse, and Mingchao Yu.* Stanford University, Stanford, CA, USA. CCS'23.
+  
+  - Keyword: _`interoperability`_
+    
+- 🎓 [TrustBoost: Boosting Trust among Interoperable Blockchains](https://dl.acm.org/doi/pdf/10.1145/3576915.3623080). *Peiyao Sheng, Xuechao Wang, Sreeram Kannan, Kartik Nayak, and Pramod Viswanath.* University of Illinois Urbana-Champaign, Urbana, IL, USA. CCS'23.
+  
+  - Keyword: _`interoperability`_
+    
+- 🎓 [CryptoConcurrency: (Almost) Consensusless Asset Transfer with Shared Accounts](https://dl.acm.org/doi/pdf/10.1145/3576915.3616587). *Andrei Tonkikh, Pavel Ponomarev, Petr Kuznetsov, and Yvonne-Anne Pignolet.* Télécom Paris, Institut Polytechnique de Paris, Palaiseau, France. CCS'23.
+  
+  - Keyword: _`interoperability`_
+    
+- 🎓 [Accio: Variable-Amount, Optimized-Unlinkable and NIZK-Free Off-Chain Payments via Hubs](https://dl.acm.org/doi/pdf/10.1145/3576915.3616577). *Zhonghui Ge, Jiayuan Gu, Chenke Wang, Yu Long, Xian Xu, and Dawu Gu.* Shanghai Jiao Tong University, Shanghai, China. CCS'23.
+  
+  - Keyword: _`payment channel`_
+    
+- 🎓 [Riggs: Decentralized Sealed-Bid Auctions](https://dl.acm.org/doi/pdf/10.1145/3576915.3623182). *Nirvan Tyagi, Arasu Arun, Cody Freitag, Riad Wahby, Joseph Bonneau, and David Mazières.* Cornell University, Ithaca, NY, USA. CCS'23.
+  
+  - Keyword: _`applications`_, _`auctions`_
+    
+- 🎓 [Lanturn: Measuring Economic Security of Smart Contracts Through Adaptive Learning](https://dl.acm.org/doi/pdf/10.1145/3576915.3623204). *Kushal Babel, Mojan Javaheripi, Yan Ji, Mahimna Kelkar, Farinaz Koushanfar, and Ari Juels.* Cornell Tech & IC3, New York, NY, USA. CCS'23.
+  
+  - Keyword: _`security`_, _`auditation`_
+    
+- 🎓 [Fuzz on the Beach: Fuzzing Solana Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3576915.3623178). *Erkan Tairi, Pedro Moreno-Sanchez, and Clara Schneidewind.* University of Duisburg-Essen, Essen, Germany. CCS'23.
+  
+  - Keyword: _`security`_, _`auditation`_
+    
+- 🎓 [Phoenix: Detect and Locate Resilience Issues in Blockchain via Context-Sensitive Chaos](https://dl.acm.org/doi/pdf/10.1145/3576915.3623071). *Fuchen Ma, Yuanliang Chen, Yuanhang Zhou, Jingxuan Sun, Zhuo Su, Yu Jiang, Jiaguang Sun, and Huizhong Li.* Tsinghua University, Beijing, China. CCS'23.
+  
+  - Keyword: _`availability`_
+    
+- 🎓 [LedgerLocks: A Security Framework for Blockchain Protocols Based on Adaptor Signatures](https://dl.acm.org/doi/pdf/10.1145/3576915.3623149). *Erkan Tairi, Pedro Moreno-Sanchez, and Clara Schneidewind.* TU Wien, Vienna, Austria. CCS'23.
+  
+  - Keyword: _`system`_, _`adaptor signature`_
+    
+- 🎓 [Fait Accompli Committee Selection: Improving the Size-Security Tradeoff of Stake-Based Committees](https://dl.acm.org/doi/pdf/10.1145/3576915.3623194). *Peter Gai, Aggelos Kiayias, and Alexander Russell.* IOG, Bratislava, Slovakia. CCS'23.
+  
+  - Keyword: _`PoS committee`_
+    
+- 🎓 [Analyzing the Real-World Security of the Algorand Blockchain](https://dl.acm.org/doi/pdf/10.1145/3576915.3623167). *Erica Blum, Derek Leung, Julian Loss, Jonathan Katz, and Tal Rabin.* Reed College, Portland, OR, USA. CCS'23.
+  
+  - Keyword: _`Algorand blockchain`_
+    
+- 🎓 [ParBFT: Faster Asynchronous BFT Consensus with a Parallel Optimistic Path](https://dl.acm.org/doi/pdf/10.1145/3576915.3623101). *Xiaohai Dai, Bolin Zhang, Hai Jin, and Ling Ren.* Huazhong University of Science and Technology, Wuhan, China. CCS'23.
+  
+  - Keyword: _`BFT`_
+    
+- 🎓 [Towards Practical Sleepy BFT](https://dl.acm.org/doi/pdf/10.1145/3576915.3623073). *Dahlia Malkhi, Atsuki Momose, and Ling Ren.* Chainlink Labs, San Francisco, CA, USA. CCS'23.
+  
+  - Keyword: _`BFT`_
+    
+- 🎓 [Themis: Fast, Strong Order-Fairness in Byzantine Consensus](https://dl.acm.org/doi/pdf/10.1145/3576915.3616658). *Mahimna Kelkar, Soubhik Deb, Sishan Long, Ari Juels, and Sreeram Kannan.* Cornell Tech, New York, NY, USA. CCS'23.
+  
+  - Keyword: _`consensus`_
+    
+- 🎓 [Chipmunk: Better Synchronized Multi-Signatures from Lattices](https://dl.acm.org/doi/pdf/10.1145/3576915.3623219). *Nils Fleischhacker, Gottfried Herold, Mark Simkin, and Zhenfei Zhang.* Ruhr University Bochum, Bochum, Germany. CCS'23.
+  
+  - Keyword: _`scalability`_, _`aggregate signature`_
+    
+- 🎓 [Post Quantum Fuzzy Stealth Signatures and Applications](https://dl.acm.org/doi/pdf/10.1145/3576915.3623148). *Sihang Pu, Sri AravindaKrishnan Thyagarajan, Nico Döttling, and Lucjan Hanzlik.* CISPA Helmholtz Center for Information Security, Saarbruecken, Germany. CCS'23.
+  
+  - Keyword: _`private payments`_, _`stealth signature`_
+    
+- 🎓 [Under the Dark: A Systematical Study of Stealthy Mining Pools (Ab)use in the Wild](https://dl.acm.org/doi/pdf/10.1145/3576915.3616677). *Zhenrui Zhang, Geng Hong, Xiang Li, Zhuoqun Fu, Jia Zhang, Mingxuan Liu, Chuhan Wang, Jianjun Chen, Baojun Liu, Haixin Duan, Chao Zhang, and Min Yang.* Tsinghua University, Beijing, China. CCS'23.
+  
+  - Keyword: _`mining pool`_, _`survey`_
+    
+- 🎓 [Demystifying DeFi MEV Activities in Flashbots Bundle](https://dl.acm.org/doi/pdf/10.1145/3576915.3616590). *Zihao Li, Jianfeng Li, Zheyuan He, Xiapu Luo, Ting Wang, Xiaoze Ni, Wenwu Yang, Xi Chen, and Ting Chen.* The Hong Kong Polytechnic University, Hong Kong, China. CCS'23.
+  
+  - Keyword: _`attacks`_
+    
+- 🎓 [How Hard is Takeover in DPoS Blockchains? Understanding the Security of Coin-based Voting Governance](https://dl.acm.org/doi/pdf/10.1145/3576915.3623171). *Chao Li, Balaji Palanisamy, Runhua Xu, Li Duan, Jiqiang Liu, and Wei Wang*. Beijing Jiaotong University, Beijing, China. CCS'23.
+  
+  - Keyword: _`attacks`_
+    
+- 🎓 [Uncle Maker: (Time)Stamping Out The Competition in Ethereum](https://dl.acm.org/doi/pdf/10.1145/3576915.3616674). *Aviv Yaish, Gilad Stern, and Aviv Zohar.* The Hebrew University, Jerusalem, Israel. CCS'23.
+  
+  - Keyword: _`attacks`_
+    
+- 🎓 [TxPhishScope: Towards Detecting and Understanding Transaction-based Phishing on Ethereum](https://dl.acm.org/doi/pdf/10.1145/3576915.3623210). *Bowen He, Yuan Chen, Zhuo Chen, Xiaohui Hu, Yufeng Hu, Lei Wu, Rui Chang, Haoyu Wang, and Yajin Zhou.* Zhejiang University, Hangzhou, China. CCS'23.
+  
+  - Keyword: _`attacks`_
 
-- [zkBridge: Trustless Cross-chain Bridges Made Practical](https://rdi.berkeley.edu/zkp/zkBridge/uploads/paper.pdf). Tiancheng Xie (University of California; Berkeley); Jiaheng Zhang (University of California; Berkeley); Zerui Cheng (Tsinghua University); Fan Zhang (Yale University); Yupeng Zhang (Texas A&M University); Yongzheng Jia (Overeality Labs); Dan Boneh (Stanford University); Dawn Song (University of California; Berkeley). CCS'22.
+- 🎓 [zkBridge: Trustless Cross-chain Bridges Made Practical](https://rdi.berkeley.edu/zkp/zkBridge/uploads/paper.pdf). Tiancheng Xie (University of California; Berkeley); Jiaheng Zhang (University of California; Berkeley); Zerui Cheng (Tsinghua University); Fan Zhang (Yale University); Yupeng Zhang (Texas A&M University); Yongzheng Jia (Overeality Labs); Dan Boneh (Stanford University); Dawn Song (University of California; Berkeley). CCS'22.
 
   - Keyword: _`Interoperability`_
 
@@ -919,6 +1102,26 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
 
 ## INFOCOM (A)
 
+- 🎓 [Prophet: Conflict-Free Sharding Blockchain via Byzantine-Tolerant Deterministic Ordering](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10228939). Zicong Hong (The Hong Kong Polytechnic University, China); Song Guo and Enyuan Zhou (The Hong Kong Polytechnic University, Hong Kong); Jianting Zhang (Purdue University, USA); Chen Wuhui (Sun Yat-sen University, China); Jinwen Liang and Jie Zhang (The Hong Kong Polytechnic University, Hong Kong); Albert Zomaya (The University of Sydney, Australia). INFOCOM'23
+  
+  - Keyword: _`sharding`_, _`BFT`_
+
+- 🎓 [CoChain: High Concurrency Blockchain Sharding via Consensus on Consensus](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10228892). Mingzhe Li (Hong Kong University of Science and Technology, Hong Kong); You Lin (Southern University of Science and Technology, China); Jin Zhang (Southern University of Science and Technology, USA); Wei Wang (Hong Kong University of Science and Technology, Hong Kong). INFOCOM'23
+  
+  - Keyword: _`sharding`_, _`concurrency`_
+
+- 🎓 [Latency-First Smart Contract: Overclock the Blockchain for a while](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10228992). Huayi Qi, Minghui Xu and Xiuzhen Cheng (Shandong University, China); Weifeng Lv (Beijing University of Aeronautics and Astronautics, China). INFOCOM'23
+  
+  - Keyword: _`scalability`_, _`concurrency`_
+
+- 🎓 [Mercury: Fast Transaction Broadcast in High Performance Blockchain Systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10228972). Mingxun Zhou (Carnegie Mellon University, USA); Yilin Han (Shanghai Tree-Graph Blockchain Research Institute, China); Liyi Zeng (Tsinghua University, China); Peilun Li (Shanghai Tree-Graph Blockchain Research Institute, China); Fan Long (University of Toronto, Canada); Dong Zhou (IMO Ventures, China); Ivan Beschastnikh (University of British Columbia, Canada); Ming Wu (Shanghai Tree-Graph Blockchain Research Institute, China). INFOCOM'23
+  
+  - Keyword: _`scalability`_
+
+- 🎓 [A Decentralized Truth Discovery Approach to the Blockchain Oracle Problem](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10229019). Yang Xiao (University of Kentucky, USA); Ning Zhang (Washington University in St. Louis, USA); Wenjing Lou and Thomas Hou (Virginia Tech, USA). INFOCOM'23
+  
+  - Keyword: _`security`_, _`oracle`_
+
 - 🎓 [BrokerChain: A Cross-Shard Blockchain Protocol for Account/Balance-based State Sharding](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9796859). H. Huang *et al*. INFOCOM'22
 
   - Keyword: _`network`_, _`scalability`_
@@ -995,6 +1198,14 @@ Muhammad Saad (University of Central Florida); Songqing Chen (George Mason Unive
   - Keyword: _`Transaction`_
 
 ## SOSP (A)
+
+- 🎓 [QuePaxa: Escaping the tyranny of timeouts in consensus](https://dl.acm.org/doi/pdf/10.1145/3600006.3613150). Pasindu Tennage (Ecole Polytechnique Federale de Lausanne (EPFL)), Cristina Basescu (Ecole Polytechnique Federale de Lausanne (EPFL)), Lefteris Kokoris-Kogias (IST Austria, Mysten Labs), Ewa Syta (Trinity College), Philipp Jovanovic (UCL), Vero Estrada-Galinanes (Ecole Polytechnique Federale de Lausanne (EPFL)) and Bryan Ford (Ecole Polytechnique Federale de Lausanne (EPFL)). SOSP'23
+  
+  - Keyword: _`leader-based consensus`_
+    
+- 🎓 [Flexible Advancement in Asynchronous BFT Consensus](https://doi.org/10.1145/3600006.3613164). Shengyun Liu (Shanghai Jiao Tong University), Wenbo Xu (Blockchain Platform Division, Ant Group), Chen Shan (Blockchain Platform Division, Ant Group), Xiaofeng Yan (Blockchain Platform Division, Ant Group), Tianjing Xu (Blockchain Platform Division, Ant Group), Bo Wang (Blockchain Platform Division, Ant Group), Lei Fan (Shanghai Jiao Tong University), Fuxi Deng (Blockchain Platform Division, Ant Group), Ying Yan (Blockchain Platform Division, Ant Group) and Hui Zhang (Blockchain Platform Division, Ant Group). SOSP'23
+  
+  - Keyword: _`BFT`_
 
 - 🎓 [Forerunner: Constraint-based Speculative Transaction Execution for Ethereum](https://www.microsoft.com/en-us/research/uploads/prod/2021/09/3477132.3483564.pdf). Yang Chen (Microsoft Research), Zhongxin Guo (Microsoft Research), Runhuai Li (Zhejiang University and Microsoft Research), Shuo Chen (Microsoft Research), Lidong Zhou (Microsoft Research), Yajin Zhou (Zhejiang University), Xian Zhang (Microsoft Research). SOSP'21
 
